@@ -1,4 +1,4 @@
 Flask-app
 =========
 
-### Sample project using Flask ... a Python microframework 
+### Sample project using [Flask](http://flask.pocoo.org/) ... a Python microframework 
